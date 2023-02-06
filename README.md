@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wormcracker&label=Profile%20views&color=0e75b6&style=flat" alt="wormcracker" /> </p>
 
-- 🌱 I’m currently learning progamming languages. **app development**
+- 🌱 I’m currently learning **app development courses**
 
 - 👨‍💻 All of my projects will be available at github and my own website. [https://github.com/wormcracker/wormcracker](https://github.com/wormcracker/wormcracker)
 
